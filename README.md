@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is about the crud using react hooks fro learning adn understanding about the hooks. This will be refactored using routes and json placeholder for fake REST api.
 
 ## Available Scripts
 
